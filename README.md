@@ -1,11 +1,11 @@
-About r-flatxml
-===============
+About r-flatxml-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-flatxml-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/jsugarelli/flatxml/
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-flatxml-feedstock/blob/main/LICENSE.txt)
 
 Summary: On import, the XML information is converted to a dataframe that reflects the hierarchical XML structure. Intuitive functions allow to navigate within this transparent XML data structure (without any knowledge of 'XPath'). 'flatXML' also provides tools to extract data from the XML into a flat dataframe that can be used to perform statistical operations. It also supports converting dataframes to XML.
 
@@ -95,7 +95,7 @@ available continuous integration services. Thanks to the awesome service provide
 [CircleCI](https://circleci.com/), [AppVeyor](https://www.appveyor.com/),
 [Drone](https://cloud.drone.io/welcome), and [TravisCI](https://travis-ci.com/)
 it is possible to build and upload installable packages to the
-[conda-forge](https://anaconda.org/conda-forge) [Anaconda-Cloud](https://anaconda.org/)
+[conda-forge](https://anaconda.org/conda-forge) [anaconda.org](https://anaconda.org/)
 channel for Linux, Windows and OSX respectively.
 
 To manage the continuous integration and simplify feedstock maintenance
@@ -143,5 +143,5 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
-* [@conda-forge/r](https://github.com/conda-forge/r/)
+* [@conda-forge/r](https://github.com/orgs/conda-forge/teams/r/)
 
